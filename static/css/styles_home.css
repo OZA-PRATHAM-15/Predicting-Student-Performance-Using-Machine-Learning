@@ -1,11 +1,11 @@
 body {
-    background-color: #EAF2E3;
+    background-color: #000000;
     color: #333333;
     font-family: Arial, sans-serif;
   }
   
   .menu-bar {
-    background-color: #1f418c;
+    background-color: #ff0000;
     padding: 10px;
     text-align: right;
   }
@@ -26,7 +26,7 @@ body {
     text-decoration: none;
     padding: 5px 10px;
     border-radius: 5px;
-    background-color: #00a868;
+    background-color: #7b7b7b;
   }
   
   .container {
@@ -41,7 +41,7 @@ body {
     font-size: 24px;
     margin-bottom: 20px;
     text-align: center;
-    color: #00a868;
+    color: #ff0000;
   }
   
   form {
@@ -56,7 +56,7 @@ body {
     display: block;
     font-weight: bold;
     margin-bottom: 5px;
-    color: #00a868;
+    color: #ff1e00;
   }
   
   select,
@@ -70,7 +70,7 @@ body {
   input[type="submit"] {
     width: 100%;
     padding: 10px;
-    background-color: #00a868;
+    background-color: #f94d03;
     color: #FFFFFF;
     border: none;
     border-radius: 5px;
@@ -79,6 +79,6 @@ body {
   
   h2 {
     text-align: center;
-    color: #00a868;
+    color: rgb(255, 0, 0);
   }
   

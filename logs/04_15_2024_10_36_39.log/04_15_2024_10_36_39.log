@@ -1,0 +1,35 @@
+[ 2024-04-15 10:36:39,503 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-04-15 10:36:39,525 ] 96 werkzeug - INFO -  * Debugger PIN: 472-760-936
+[ 2024-04-15 10:36:53,035 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:36:53] "GET / HTTP/1.1" 200 -
+[ 2024-04-15 10:36:53,497 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:36:53] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2024-04-15 10:36:54,129 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:36:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-04-15 10:36:57,216 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:36:57] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:36:57,246 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:36:57] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-04-15 10:37:30,239 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:37:30] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:37:30,269 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:37:30] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-04-15 10:37:51,939 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:37:51] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:37:51,972 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:37:51] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-04-15 10:38:28,826 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:38:28] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:38:28,862 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:38:28] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:38:49,786 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:38:49] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:38:49,836 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:38:49] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:39:11,503 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:39:11] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:39:11,548 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:39:11] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:39:31,284 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:39:31] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:39:31,321 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:39:31] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:39:42,610 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:39:42] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:39:42,651 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:39:42] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:39:56,982 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:39:56] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:39:57,026 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:39:57] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:40:13,491 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:40:13] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:40:13,533 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:40:13] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:40:31,078 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:40:31] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:40:31,118 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:40:31] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:40:52,657 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:40:52] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:40:52,696 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:40:52] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:41:08,975 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:41:08] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:41:09,024 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:41:09] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:41:21,299 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:41:21] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-04-15 10:41:21,345 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:41:21] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-04-15 10:43:28,763 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:43:28] "GET / HTTP/1.1" 200 -
+[ 2024-04-15 10:43:28,846 ] 96 werkzeug - INFO - 127.0.0.1 - - [15/Apr/2024 10:43:28] "GET /static/css/styles.css HTTP/1.1" 200 -
