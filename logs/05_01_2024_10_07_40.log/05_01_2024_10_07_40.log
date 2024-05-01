@@ -1,0 +1,5 @@
+[ 2024-05-01 10:07:41,131 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-01 10:07:41,151 ] 96 werkzeug - INFO -  * Debugger PIN: 472-760-936
+[ 2024-05-01 10:07:48,055 ] 96 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:07:48] "GET / HTTP/1.1" 200 -
+[ 2024-05-01 10:07:48,234 ] 96 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:07:48] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-05-01 10:07:48,307 ] 96 werkzeug - INFO - 127.0.0.1 - - [01/May/2024 10:07:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
