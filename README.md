@@ -39,6 +39,54 @@ Our model is trained on a rich dataset sourced from Kaggle, providing a comprehe
    - Run `python -m pip install --user -r requirements.txt` to install necessary dependencies.
    - Execute `python app.py` to launch the application.
 
+## Running the Application with Docker
+
+To run this application using Docker, follow these steps:
+
+### Prerequisites
+
+- Ensure you have Docker installed. You can download it from [Docker's official website](https://www.docker.com/products/docker-desktop).
+
+### Building the Docker Image
+
+1. Navigate to the project directory:
+
+   ```sh
+   cd /path/to/your/project
+   ```
+
+2. Build the Docker image:
+
+   ```sh
+   docker build -t studentperformancepredict .
+   ```
+
+   This command builds the Docker image with the tag studentperformancepredict. The . denotes the current directory as the build context.
+
+### Running the Docker Container
+
+1. Running the docker container:
+
+   ```sh
+   docker run -p 8000:8000 studentperformancepredict
+   ```
+
+   This command runs the container and maps port 8000 on your host machine to port 8000 in the container. Your application will be accessible at http://localhost:8000.
+
+### Stopping the Docker Container
+
+1. Find the running container ID or name:
+
+   ```sh
+   docker ps
+   ```
+
+2. Stop the container:
+
+   ```sh
+   docker stop <your_container_ID>
+   ```
+
 ## Note: Education Transformed
 
 ### Disclaimer:
